@@ -1,0 +1,6 @@
+print("Digite 4 números")
+n1 = int(input("Digite mais um número"))
+n2 = int(input("Digite mais um número"))
+n3 = int(input("Digite mais um número"))
+n4 = int(input("Digite mais um número"))
+print("A soma dos seus números foram" , n1+n2+n3+n4)         
